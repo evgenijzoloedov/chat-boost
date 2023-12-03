@@ -37,7 +37,7 @@ function init(){
     iframe.className = 'chat'
     iframe.width =600
     iframe.height =600
-    iframe.src ='https://20d66434387c45e490.gradio.live'
+    iframe.src ='https://f391a238de8e1ec4eb.gradio.live'
 
 
 
